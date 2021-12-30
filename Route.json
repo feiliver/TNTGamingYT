@@ -22,17 +22,5 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
-  },
-  {
-    "number": 2,
-    "route": "1A",
-    "destZ": "南光巴士車廠",
-    "destY": "石落醫院",
-    "maxPZ": "1",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
   }
 ]
