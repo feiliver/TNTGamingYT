@@ -29,11 +29,11 @@
     "destZ": "滿景山",
     "destY": "古拉巴士車廠",
     "maxPZ": "1",
-    "priceZ1": "0.0",
-    "halfpriceZ1": "0.0",
+    "priceZ1": "5.0",
+    "halfpriceZ1": "2.5",
     "maxPY": "1",
-    "priceY1": "0.0",
-    "halfpriceY1": "0.0"
+    "priceY1": "5.0",
+    "halfpriceY1": "2.5"
   },
   {
     "number": 3,
@@ -41,10 +41,10 @@
     "destZ": "機場",
     "destY": "古拉巴士車廠",
     "maxPZ": "1",
-    "priceZ1": "0.0",
-    "halfpriceZ1": "0.0",
+    "priceZ1": "15.0",
+    "halfpriceZ1": "7.5",
     "maxPY": "1",
-    "priceY1": "0.0",
-    "halfpriceY1": "0.0"
+    "priceY1": "15.0",
+    "halfpriceY1": "7.5"
   }
 ]
