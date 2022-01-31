@@ -1,0 +1,157 @@
+{
+  "fleetdata": [
+    {
+      "busname": "GuraBusB8L12000",
+      "number": 1,
+      "carplate": "MX7769",
+      "fleetnum": "V01",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GuraBusStreetdeck10650",
+      "number": 1,
+      "carplate": "MX7866",
+      "fleetnum": "V02",
+      "depot": "Q",
+      "leftad": "rbxassetid://8505226368",
+      "rightad": "rbxassetid://8505226368",
+      "backad": "rbxassetid://"
+    }
+  ],
+  "Groutedata": [
+    {
+      "number": 0,
+      "route": "GURA",
+      "destZ": "暫停服務",
+      "destY": "暫停服務",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+    {
+      "number": 1,
+      "route": "NR934",
+      "destZ": "南光巴士車廠",
+      "destY": "新快運輸車廠",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+    {
+      "number": 2,
+      "route": "1",
+      "destZ": "滿景山",
+      "destY": "古拉巴士車廠",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+  {
+    "number": 3,
+    "route": "A10",
+    "destZ": "機場",
+    "destY": "古拉巴士車廠",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  }
+  ],
+  "Gpaidata": [
+  {
+    "number": 0,
+    "route": "GB",
+    "front": 1,
+    "frontid1": "rbxassetid://7680260237",
+    "controllerid1": "rbxassetid://7680277700",
+    "side": 1,
+    "sideid1": "rbxassetid://7680266845"
+  },
+  {
+    "number": 1,
+    "route": "OO",
+    "front": 1,
+    "frontid1": "rbxassetid://7680330195",
+    "controllerid1": "rbxassetid://7680339206",
+    "side": 1,
+    "sideid1": "rbxassetid://7680330195"
+  },
+  {
+    "number": 2,
+    "route": "XX",
+    "front": 1,
+    "frontid1": "rbxassetid://7625482167",
+    "controllerid1": "rbxassetid://7680308988",
+    "side": 1,
+    "sideid1": "rbxassetid://7625487566"
+  },
+  {
+    "number": 3,
+    "route": "NR934Y",
+    "front": 1,
+    "frontid1": "rbxassetid://7115198933",
+    "controllerid1": "rbxassetid://7115198933",
+    "side": 1,
+    "sideid1": "rbxassetid://7115198933"
+  },
+  {
+    "number": 4,
+    "route": "NR934Z",
+    "front": 1,
+    "frontid1": "rbxassetid://7115199743",
+    "controllerid1": "rbxassetid://7115199743",
+    "side": 1,
+    "sideid1": "rbxassetid://7115199743"
+  },
+    {
+    "number": 5,
+    "route": "1Y",
+    "front": 1,
+    "frontid1": "rbxassetid://8692209399",
+    "controllerid1": "rbxassetid://8692209399",
+    "side": 1,
+    "sideid1": "rbxassetid://8692209399"
+  },
+      {
+    "number": 6,
+    "route": "1Z",
+    "front": 1,
+    "frontid1": "rbxassetid://8692209519",
+    "controllerid1": "rbxassetid://8692209519",
+    "side": 1,
+    "sideid1": "rbxassetid://8692209519"
+  },
+ {
+    "number": 7,
+    "route": "A10Y",
+    "front": 1,
+    "frontid1": "rbxassetid://8692209609",
+    "controllerid1": "rbxassetid://8692209609",
+    "side": 1,
+    "sideid1": "rbxassetid://8692209609"
+  },
+   {
+    "number": 8,
+    "route": "A10Z",
+    "front": 1,
+    "frontid1": "rbxassetid://8692209690",
+    "controllerid1": "rbxassetid://8692209690",
+    "side": 1,
+    "sideid1": "rbxassetid://8692209690"
+  }
+  ]
+}
