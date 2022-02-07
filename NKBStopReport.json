@@ -302,7 +302,7 @@
     {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 4,
     "Chi": "難波海邊公園",
     "ChiTime": 4,
     "Eng": "Namba Seaside Garden",
@@ -314,7 +314,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 5,
     "Chi": "外港碼頭",
     "ChiTime": 4,
     "Eng": "Outer Harbour Ferry Terminal",
@@ -326,7 +326,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 6,
     "Chi": "明葵街/交通事務局",
     "ChiTime": 4,
     "Eng": "R. Ming Kwai/ DSAL",
@@ -338,7 +338,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 7,
     "Chi": "謙神石落隧道收費廣場",
     "ChiTime": 4,
     "Eng": "Shek Lok-Himson Tunnel Toll Plaza",
@@ -350,7 +350,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 8,
     "Chi": "十月一號前地/新華村",
     "ChiTime": 4,
     "Eng": "P. 1 de October/ Sun Va Tsuen",
@@ -362,7 +362,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 9,
     "Chi": "石落宜家傢俬",
     "ChiTime": 4,
     "Eng": "IKEA Shek Lok",
@@ -374,7 +374,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 10,
     "Chi": "亞馬喇前地",
     "ChiTime": 4,
     "Eng": "P. Ferreira Amaral",
@@ -386,7 +386,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 11,
     "Chi": "南巴總部",
     "ChiTime": 4,
     "Eng": "NKB HQ",
@@ -398,7 +398,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 12,
     "Chi": "教育暨青年局",
     "ChiTime": 4,
     "Eng": "DSEJ",
@@ -410,7 +410,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 13,
     "Chi": "高可伶大宅",
     "ChiTime": 4,
     "Eng": "Kou Ho Neng Mansion",
@@ -422,7 +422,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 14,
     "Chi": "得勝路",
     "ChiTime": 4,
     "Eng": "R. Tak Shing",
@@ -434,7 +434,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 15,
     "Chi": "水晶宮",
     "ChiTime": 4,
     "Eng": "Crystal Palace",
@@ -446,7 +446,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 16,
     "Chi": "嘉利廣場",
     "ChiTime": 4,
     "Eng": "Garley Plaza",
@@ -458,7 +458,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 17,
     "Chi": "世界貿易廣場/石落通總部",
     "ChiTime": 4,
     "Eng": "World Trade Center/ShekLok Pass HQ",
@@ -470,7 +470,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 18,
     "Chi": "古拉巴士車廠",
     "ChiTime": 4,
     "Eng": "GuraBus Shek Lok Depot",
@@ -482,7 +482,7 @@
       {
     "route": "1A",
     "direction": 1,
-    "NextStop": ,
+    "NextStop": 19,
     "Chi": "石落村",
     "ChiTime": 4,
     "Eng": "Shek Lok Village",
@@ -494,7 +494,7 @@
   {
     "route": "1A",
     "direction": 0,
-    "NextStop": X,
+    "NextStop": 20,
     "Chi": "多謝選乘南光巴士",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -502,4 +502,5 @@
     "SoundId": "rbxassetid://7010707574",
     "TimePosition": 0,
     "Notification": 0
-  },
+  }
+]
