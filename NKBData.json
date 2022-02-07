@@ -1,0 +1,177 @@
+{
+  "fleetdata": [
+    {
+      "busname": "NKBStreetdeck10650",
+      "number": 1,
+      "carplate": "MX 7769",
+      "fleetnum": "B8(5)01",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 2,
+      "carplate": "MX 7866",
+      "fleetnum": "B8(5)02",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 3,
+      "carplate": "MY 9362",
+      "fleetnum": "B8(5)03",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 4,
+      "carplate": "MY 9487",
+      "fleetnum": "B8(5)04",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 5,
+      "carplate": "MY 9211",
+      "fleetnum": "B8(5)05",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 6,
+      "carplate": "MY 9278",
+      "fleetnum": "B8(5)06",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 7,
+      "carplate": "MY 9491",
+      "fleetnum": "B8(5)07",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 8,
+      "carplate": "MY 9154",
+      "fleetnum": "B8(5)08",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 9,
+      "carplate": "MY 9282",
+      "fleetnum": "B8(5)09",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "NKBStreetdeck10650",
+      "number": 10,
+      "carplate": "MY 7560",
+      "fleetnum": "B8(5)10",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    }
+  ],
+  "Groutedata": [
+  {
+    "number": 0,
+    "route": "NKB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "1A",
+    "destZ": "謙神",
+    "destY": "石落",
+    "maxPZ": "1",
+    "priceZ1": "3.2",
+    "halfpriceZ1": "1.6",
+    "maxPY": "1",
+    "priceY1": "3.2",
+    "halfpriceY1": "1.6"
+  }
+  ],
+  "Gpaidata": [
+{
+    "number": 0,
+    "route": "NKB",
+    "front": 1,
+    "frontid1": "rbxassetid://6543773002",
+    "controllerid1": "rbxassetid://6543773002",
+    "side": 1,
+    "sideid1": "rbxassetid://6543773002"
+  },
+  {
+    "number": 1,
+    "route": "OO",
+    "front": 1,
+    "frontid1": "rbxassetid://7680330195",
+    "controllerid1": "rbxassetid://7680339206",
+    "side": 1,
+    "sideid1": "rbxassetid://7680330195"
+  },
+  {
+    "number": 2,
+    "route": "XX",
+    "front": 1,
+    "frontid1": "rbxassetid://7625482167",
+    "controllerid1": "rbxassetid://7680308988",
+    "side": 1,
+    "sideid1": "rbxassetid://7625487566"
+  },
+  {
+    "number": 3,
+    "route": "1AY",
+    "front": 1,
+    "frontid1": "rbxassetid://8701216172",
+    "controllerid1": "rbxassetid://8701216172",
+    "side": 1,
+    "sideid1": "rbxassetid://8701216172"
+  },
+  {
+    "number": 4,
+    "route": "1AZ",
+    "front": 1,
+    "frontid1": "rbxassetid://8701213221",
+    "controllerid1": "rbxassetid://8701213221",
+    "side": 1,
+    "sideid1": "rbxassetid://8701213221"
+  }
+  ]
+}
