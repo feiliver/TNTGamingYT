@@ -3,7 +3,7 @@
     {
       "busname": "GuraBusB8L12000",
       "number": 1,
-      "carplate": "MX7769",
+      "carplate": "MZ 8267",
       "fleetnum": "V01",
       "depot": "S",
       "leftad": "rbxassetid://",
@@ -13,7 +13,7 @@
     {
       "busname": "GuraBusStreetdeck10650",
       "number": 1,
-      "carplate": "MX7866",
+      "carplate": "MZ 8659",
       "fleetnum": "V02",
       "depot": "Q",
       "leftad": "rbxassetid://8692628676",
@@ -69,6 +69,17 @@
     "maxPY": "1",
     "priceY1": "15.0",
     "halfpriceY1": "7.5"
+  },
+      {
+    "number": 4,
+    "route": "1A",
+    "destZ": "石落",
+    "destY": "謙神",
+    "priceZ1": "3.2",
+    "halfpriceZ1": "1.6",
+    "maxPY": "1",
+    "priceY1": "3.2",
+    "halfpriceY1": "1.6"
   }
   ],
   "Gpaidata": [
@@ -152,6 +163,24 @@
     "controllerid1": "rbxassetid://8692209690",
     "side": 1,
     "sideid1": "rbxassetid://8692209690"
+  },
+       {
+    "number": 9,
+    "route": "1AY",
+    "front": 1,
+    "frontid1": "rbxassetid://8775978487",
+    "controllerid1": "rbxassetid://8775978487",
+    "side": 1,
+    "sideid1": "rbxassetid://8775978730"
+  },
+       {
+    "number": 10,
+    "route": "1AZ",
+    "front": 1,
+    "frontid1": "rbxassetid://8775979773",
+    "controllerid1": "rbxassetid://8775979773",
+    "side": 1,
+    "sideid1": "rbxassetid://8775979987"
   }
   ]
 }
