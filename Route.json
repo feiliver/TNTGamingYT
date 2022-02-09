@@ -46,5 +46,16 @@
     "maxPY": "1",
     "priceY1": "15.0",
     "halfpriceY1": "7.5"
+  },
+        {
+    "number": 4,
+    "route": "1A",
+    "destZ": "石落",
+    "destY": "謙神",
+    "priceZ1": "3.2",
+    "halfpriceZ1": "1.6",
+    "maxPY": "1",
+    "priceY1": "3.2",
+    "halfpriceY1": "1.6"
   }
 ]
