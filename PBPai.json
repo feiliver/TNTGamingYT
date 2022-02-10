@@ -1,5 +1,5 @@
 [
-{
+  {
     "number": 0,
     "route": "PB",
     "front": 1,
@@ -39,27 +39,27 @@
     "number": 4,
     "route": "46Z",
     "front": 1,
-    "frontid1": "rbxassetid://0",
-    "controllerid1": "rbxassetid://0",
+    "frontid1": "rbxassetid://8782448241",
+    "controllerid1": "rbxassetid://8782448241",
     "side": 1,
-    "sideid1": "rbxassetid://0"
+    "sideid1": "rbxassetid://8782448241"
   },
     {
     "number": 5,
     "route": "46BY",
     "front": 1,
-    "frontid1": "rbxassetid://0",
-    "controllerid1": "rbxassetid://0",
+    "frontid1": "rbxassetid://8782400213",
+    "controllerid1": "rbxassetid://8782400213",
     "side": 1,
-    "sideid1": "rbxassetid://0"
+    "sideid1": "rbxassetid://8782400213"
   },
       {
     "number": 6,
     "route": "46BZ",
     "front": 1,
-    "frontid1": "rbxassetid://0",
-    "controllerid1": "rbxassetid://0",
+    "frontid1": "rbxassetid://8782400674",
+    "controllerid1": "rbxassetid://8782400674",
     "side": 1,
-    "sideid1": "rbxassetid://0"
+    "sideid1": "rbxassetid://8782400674"
   }
   ]
