@@ -99,6 +99,106 @@
       "leftad": "rbxassetid://8692628666",
       "rightad": "rbxassetid://8692628666",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 1,
+      "carplate": "MY 9176",
+      "fleetnum": "B8 01",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 2,
+      "carplate": "MY 9058",
+      "fleetnum": "B8 02",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 3,
+      "carplate": "MY 9266",
+      "fleetnum": "B8 03",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 4,
+      "carplate": "MY 9538",
+      "fleetnum": "B8 04",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 5,
+      "carplate": "MY 9140",
+      "fleetnum": "B8 05",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 6,
+      "carplate": "MY 9334",
+      "fleetnum": "B8 06",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 7,
+      "carplate": "MY 9473",
+      "fleetnum": "B8 07",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 8,
+      "carplate": "MY 9256",
+      "fleetnum": "B8 08",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 9,
+      "carplate": "MY 9243",
+      "fleetnum": "B8 09",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "NKBB8L12000",
+      "number": 10,
+      "carplate": "MY 9515",
+      "fleetnum": "B8 10",
+      "depot": "S",
+      "leftad": "rbxassetid://8692628666",
+      "rightad": "rbxassetid://8692628666",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
