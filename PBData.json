@@ -1,0 +1,127 @@
+{
+  "fleetdata": [
+    {
+      "busname": "PenguinBusStreetdeck10650",
+      "number": 1,
+      "carplate": "XV 188",
+      "fleetnum": "V6S1",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "PenguinBusStreetdeck10650",
+      "number": 2,
+      "carplate": "XV 1588",
+      "fleetnum": "V6S2",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    }
+  ],
+  "Groutedata": [
+    {
+    "number": 0,
+    "route": "PB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "46",
+    "destZ": "山東街",
+    "destY": "西港路",
+    "maxPZ": "1",
+    "priceZ1": "2.4",
+    "halfpriceZ1": "1.2",
+    "maxPY": "1",
+    "priceY1": "2.4",
+    "halfpriceY1": "1.2"
+  },
+  {
+    "number": 2,
+    "route": "46B",
+    "destZ": "西港山車廠",
+    "destY": "西港路",
+    "maxPZ": "1",
+    "priceZ1": "1.9",
+    "halfpriceZ1": "0.8",
+    "maxPY": "1",
+    "priceY1": "1.9",
+    "halfpriceY1": "0.8"
+  }
+  ],
+  "Gpaidata": [
+  {
+    "number": 0,
+    "route": "GB",
+    "front": 1,
+    "frontid1": "rbxassetid://7680260237",
+    "controllerid1": "rbxassetid://7680277700",
+    "side": 1,
+    "sideid1": "rbxassetid://7680266845"
+  },
+  {
+    "number": 1,
+    "route": "OO",
+    "front": 1,
+    "frontid1": "rbxassetid://7680330195",
+    "controllerid1": "rbxassetid://7680339206",
+    "side": 1,
+    "sideid1": "rbxassetid://7680330195"
+  },
+  {
+    "number": 2,
+    "route": "XX",
+    "front": 1,
+    "frontid1": "rbxassetid://7625482167",
+    "controllerid1": "rbxassetid://7680308988",
+    "side": 1,
+    "sideid1": "rbxassetid://7625487566"
+  },
+  {
+    "number": 3,
+    "route": "46Y",
+    "front": 1,
+    "frontid1": "rbxassetid://8781407109",
+    "controllerid1": "rbxassetid://8781407109",
+    "side": 1,
+    "sideid1": "rbxassetid://8781407109"
+  },
+  {
+    "number": 4,
+    "route": "46Z",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  },
+    {
+    "number": 5,
+    "route": "46BY",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  },
+      {
+    "number": 6,
+    "route": "46BZ",
+    "front": 1,
+    "frontid1": "rbxassetid://",
+    "controllerid1": "rbxassetid://",
+    "side": 1,
+    "sideid1": "rbxassetid://"
+  }
+  ]
+}
