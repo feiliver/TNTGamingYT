@@ -1,12 +1,12 @@
 [
 {
     "number": 0,
-    "route": "GB",
+    "route": "PB",
     "front": 1,
-    "frontid1": "rbxassetid://7680260237",
-    "controllerid1": "rbxassetid://7680277700",
+    "frontid1": "rbxassetid://0",
+    "controllerid1": "rbxassetid://0",
     "side": 1,
-    "sideid1": "rbxassetid://7680266845"
+    "sideid1": "rbxassetid://0"
   },
   {
     "number": 1,
@@ -39,27 +39,27 @@
     "number": 4,
     "route": "46Z",
     "front": 1,
-    "frontid1": "rbxassetid://",
-    "controllerid1": "rbxassetid://",
+    "frontid1": "rbxassetid://0",
+    "controllerid1": "rbxassetid://0",
     "side": 1,
-    "sideid1": "rbxassetid://"
+    "sideid1": "rbxassetid://0"
   },
     {
     "number": 5,
     "route": "46BY",
     "front": 1,
-    "frontid1": "rbxassetid://",
-    "controllerid1": "rbxassetid://",
+    "frontid1": "rbxassetid://0",
+    "controllerid1": "rbxassetid://0",
     "side": 1,
-    "sideid1": "rbxassetid://"
+    "sideid1": "rbxassetid://0"
   },
       {
     "number": 6,
     "route": "46BZ",
     "front": 1,
-    "frontid1": "rbxassetid://",
-    "controllerid1": "rbxassetid://",
+    "frontid1": "rbxassetid://0",
+    "controllerid1": "rbxassetid://0",
     "side": 1,
-    "sideid1": "rbxassetid://"
+    "sideid1": "rbxassetid://0"
   }
   ]
