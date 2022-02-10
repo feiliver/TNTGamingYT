@@ -1,0 +1,38 @@
+[
+  {
+    "number": 0,
+    "route": "PB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "46",
+    "destZ": "山東街",
+    "destY": "西港路",
+    "maxPZ": "1",
+    "priceZ1": "2.4",
+    "halfpriceZ1": "1.2",
+    "maxPY": "1",
+    "priceY1": "2.4",
+    "halfpriceY1": "1.2"
+  },
+  {
+    "number": 2,
+    "route": "46B",
+    "destZ": "西港山車廠",
+    "destY": "西港路",
+    "maxPZ": "1",
+    "priceZ1": "1.9",
+    "halfpriceZ1": "0.8",
+    "maxPY": "1",
+    "priceY1": "1.9",
+    "halfpriceY1": "0.8"
+  }
+]
