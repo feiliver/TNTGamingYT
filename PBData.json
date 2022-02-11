@@ -19,6 +19,236 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "PenguinBusB8L12000",
+      "number": 1,
+      "carplate": "WU 1679",
+      "fleetnum": "V6U1",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 2,
+      "carplate": "WV 2273",
+      "fleetnum": "V6U7",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 3,
+      "carplate": "WV 4757",
+      "fleetnum": "V6U12",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 4,
+      "carplate": "WV 1877",
+      "fleetnum": "V6U13",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 5,
+      "carplate": "WV 5179",
+      "fleetnum": "V6U14",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 6,
+      "carplate": "WV 8819",
+      "fleetnum": "V6U17",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 7,
+      "carplate": "WV 2865",
+      "fleetnum": "V6U19",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 8,
+      "carplate": "WW 8193",
+      "fleetnum": "V6U20",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 9,
+      "carplate": "WX 588",
+      "fleetnum": "V6U27",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 10,
+      "carplate": "WX 4986",
+      "fleetnum": "V6U28",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 11,
+      "carplate": "WX 5282",
+      "fleetnum": "V6U30",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 12,
+      "carplate": "WX 2791",
+      "fleetnum": "V6U31",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 13,
+      "carplate": "WZ 8170",
+      "fleetnum": "V6U42",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 14,
+      "carplate": "XA 3096",
+      "fleetnum": "V6U47",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 15,
+      "carplate": "XA 3906",
+      "fleetnum": "V6U48",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 16,
+      "carplate": "XB 5593",
+      "fleetnum": "V6U49",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 17,
+      "carplate": "XB 5999",
+      "fleetnum": "V6U51",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 18,
+      "carplate": "XB 6847",
+      "fleetnum": "V6U52",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 19,
+      "carplate": "XB 1049",
+      "fleetnum": "V6U53",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 20,
+      "carplate": "XC 2983",
+      "fleetnum": "V6U54",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 21,
+      "carplate": "XD 1787",
+      "fleetnum": "V6U60",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 22,
+      "carplate": "XD 4727",
+      "fleetnum": "V6U63",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+        {
+      "busname": "PenguinBusB8L12000",
+      "number": 23,
+      "carplate": "XD 8578",
+      "fleetnum": "V6U68",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
