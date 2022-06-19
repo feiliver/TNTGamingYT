@@ -29,8 +29,9 @@
   {
     "number": 3,
     "route": "1AY",
-    "front": 1,
+    "front": 2,
     "frontid1": "rbxassetid://8701216172",
+      "frontid2": "rbxassetid://8701213221",
     "controllerid1": "rbxassetid://8701216172",
     "side": 1,
     "sideid1": "rbxassetid://8775703777"
